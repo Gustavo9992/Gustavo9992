@@ -32,6 +32,6 @@
   ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Gustavo9992&show_icons=true&theme=vision-friendly-dark" alt="Gustavo9992's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo9992&layout=compact&theme=vision-friendly-dark" alt="Gustavo9992's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Gustavo9992&show_icons=true&theme=vision-friendly-light" alt="Gustavo9992's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo9992&layout=compact&theme=vision-friendly-light" alt="Gustavo9992's most languages"/>
 </p>
