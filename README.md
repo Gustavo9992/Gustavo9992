@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently learning about ReactJS/TS
 
-- 📖 I'm currently studing at [Rocketseat](https://github.com/Rocketseat) Ignite
+- 📖 I'm currently studying at [Rocketseat](https://github.com/Rocketseat) Ignite
 
 - 🙃 I'm 17 years old
 
