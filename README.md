@@ -1,6 +1,6 @@
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Petrocelli</h1>
 
-- 🔭 I’m currently learning about ReactJS/TS
+- 🔭 I’m currently learning about ReactTS
 
 - 📖 I'm currently studying at [Rocketseat](https://github.com/Rocketseat) Ignite
 
