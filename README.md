@@ -1,4 +1,4 @@
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Petrocelli</h1>
+<h1 align="left">Hello, I'm Gustavo Petrocelli</h1>
 
 - 🔭 I’m currently learning about ReactTS
 
