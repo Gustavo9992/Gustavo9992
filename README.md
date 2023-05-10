@@ -4,7 +4,7 @@
 
 - 📖 I'm currently studying at [Rocketseat](https://github.com/Rocketseat) Ignite
 
-- 🙃 I'm 17 years old
+- 🙃 I'm 18 years old
 
 <br>
 
