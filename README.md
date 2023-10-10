@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently learning about ReactTS
 
-- 📖 I'm currently studying at [Rocketseat](https://github.com/Rocketseat) Explorer
+- 📖 I'm currently studying at [Rocketseat](https://github.com/Rocketseat)
 
 - 🙃 I'm 18 years old
 
